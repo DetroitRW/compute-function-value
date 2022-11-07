@@ -13,7 +13,7 @@ fun main(args: Array<String>) {
     } else if (x == 0) {
          0
     } else {
-         2+ abs(x) - 1
+         2 * abs(x) - 1
     }
     print(y)
 }
